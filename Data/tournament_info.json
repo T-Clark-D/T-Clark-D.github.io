@@ -1,11 +1,11 @@
 {
-  "0": {
+  0: {
     "name": "Montreal Open 2023",
     "bracket": [[2],[2,3],[1,2,3,4]],
     "status": "finished",
     "date": "2024-11-28"
   },
-  "1": {
+  1: {
     "name": "Montreal Open 2024",
     "bracket": [[0],[0,0],[1,2,3,4]],
     "status": "future_event",

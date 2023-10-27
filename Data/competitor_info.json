@@ -1,5 +1,5 @@
 {
-  "1": {
+  1: {
     "name": "Jayson James",
     "belt": "blue",
     "weight": 75.5,
@@ -7,7 +7,7 @@
     "age": "17",
     "biography":"He's a winner that wins."
   },
-  "2": {
+  2: {
     "name": "Hank Hemingway",
     "belt": "black",
     "weight": 100,
@@ -15,7 +15,7 @@
     "age": "21",
     "biography":"He's a loser that loses."
   },
-  "3": {
+  3: {
     "name": "Tom Soyer",
     "belt": "black",
     "weight": 100,
@@ -23,7 +23,7 @@
     "age": "21",
     "biography":"He's a loser that wins."
   },
-   "4": {
+   4: {
     "name": "Laurence Agathy",
     "belt": "black",
     "weight": 100,
