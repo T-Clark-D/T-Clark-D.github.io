@@ -1,1 +1,1 @@
-{"data":[{"tournament_name":"Montreal Open 2023","tournament_id":1,"bracket":[[2],[2,3],[1,2,3,4]],"status":"finished"},{"tournament_name":"Montreal Open 2024","tournament_id":2,"bracket":[[0],[0,0],[5,6,7,8]],"status":"future_event"}]}
+{"0":{"tournament_name":"Montreal Open 2023","bracket":[[2],[2,3],[1,2,3,4]],"status":"finished"},"1":{"tournament_name":"Montreal Open 2024","bracket":[[0],[0,0],[5,6,7,8]],"status":"future_event"}}
