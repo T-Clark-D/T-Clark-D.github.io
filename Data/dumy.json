@@ -1,1 +1,1 @@
-{"0":{"data":"dummy","datatwo":56},"1":{"dataa":"dummyy","datatwoo":34}}
+{"0":{"data":"dummy","datatwo":56,"bracket":[[2],[2,3],[1,2,3,4]]},"1":{"dataa":"dummyy","datatwoo":34}}
