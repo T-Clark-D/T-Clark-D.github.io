@@ -1,14 +1,34 @@
 {
-  "0": {
-    "name": "Montreal Open 2023",
-    "bracket": [[2],[2,3],[1,2,3,4]],
-    "status": "finished",
-    "date": "2024-11-28"
-  },
   "1": {
-    "name": "Montreal Open 2024",
-    "bracket": [[0],[0,0],[1,2,3,4]],
-    "status": "future_event",
-    "date": "2023-10-27"
+    "name": "Jayson James",
+    "belt": "blue",
+    "weight": 75.5,
+    "weight_class": "medium",
+    "age": "17",
+    "biography":"He's a winner that wins."
+  },
+  "2": {
+    "name": "Hank Hemingway",
+    "belt": "black",
+    "weight": 100,
+    "weight_class": "heavy",
+    "age": "21",
+    "biography":"He's a loser that loses."
+  },
+  "3": {
+    "name": "Tom Soyer",
+    "belt": "black",
+    "weight": 100,
+    "weight_class": "heavy",
+    "age": "21",
+    "biography":"He's a loser that wins."
+  },
+   "4": {
+    "name": "Laurence Agathy",
+    "belt": "black",
+    "weight": 100,
+    "weight_class": "heavy",
+    "age": "21",
+    "biography":"He's a winner that loses."
   }
 }
