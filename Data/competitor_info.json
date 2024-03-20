@@ -30,5 +30,37 @@
     "weight_class": "heavy",
     "age": "21",
     "biography":"He's a winner that loses."
+  },
+  5: {
+    "name": "Rio Faulkner",
+    "belt": "blue",
+    "weight": 75.5,
+    "weight_class": "medium",
+    "age": "17",
+    "biography":"He's a winner that wins."
+  },
+  6: {
+    "name": "Danyal Rush",
+    "belt": "black",
+    "weight": 100,
+    "weight_class": "heavy",
+    "age": "21",
+    "biography":"He's a loser that loses."
+  },
+  7: {
+    "name": "Macy Kerr",
+    "belt": "black",
+    "weight": 100,
+    "weight_class": "heavy",
+    "age": "21",
+    "biography":"He's a loser that wins."
+  },
+   8: {
+    "name": "Herbert Wong",
+    "belt": "black",
+    "weight": 100,
+    "weight_class": "heavy",
+    "age": "21",
+    "biography":"He's a winner that loses."
   }
 }
